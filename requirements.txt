@@ -1,0 +1,10 @@
+torch==2.0.1
+torchmetrics==1.2.0
+torchvision==0.15.2
+pytorch-lightning==2.0.9.post0
+pandas>=2.0
+matplotlib>=3.0
+matplotlib-inline==0.1.2
+numpy>=1.2
+Cython>=3.0
+ochumanApi @ git+https://github.com/liruilong940607/OCHumanApi@958aa2046ba4f5760fcc94cb458da8fe72cedf4f

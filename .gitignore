@@ -1,1 +1,3 @@
-data
+data/
+reference/data/
+reference/detection/__pycache__
